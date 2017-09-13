@@ -1,0 +1,15 @@
+<!--
+Purpose: Defines activity settings for the csv records path
+
+Prepared by Shaun Zia
+Submitted on 29/11/2015
+-->
+<resources>
+	<string name="title_activity_settings">Settings</string>
+
+	<!-- MuseEEG-recorder settings -->
+	<string name="pref_record_path">Records Root Path</string>
+	<string name="pref_default_record_path">/MuseEEG-recorder/</string>
+	<string name="pref_record_name_format">Record Name Format</string>
+
+</resources>
